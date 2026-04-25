@@ -101,7 +101,9 @@
       "WebFetch(domain:www.kado.net)",
       "WebFetch(domain:library.krivet.re.kr)",
       "WebFetch(domain:m.cafe.daum.net)",
-      "WebFetch(domain:onoffmix.com)"
+      "WebFetch(domain:onoffmix.com)",
+      "WebFetch(domain:library.ltikorea.or.kr)",
+      "WebFetch(domain:korean.visitkorea.or.kr)"
     ]
   }
 }
